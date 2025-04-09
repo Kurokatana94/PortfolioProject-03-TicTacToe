@@ -1,4 +1,4 @@
-<h1>Vey simple Tic Tac Toe game</h1>
+<h1>Simple Tic Tac Toe game</h1>
 
 <p>You can play it in 2 modes:</p>
 <p>Solo mode -> You vs AI (not machine learning, but simple logic behind the moves)</p>

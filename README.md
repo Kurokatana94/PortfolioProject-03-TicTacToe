@@ -6,3 +6,7 @@
 <p>-Playable as CLI-</p>
 <p>&nbsp;</p>
 <p>That's all, but works none the less</p>
+
+### Release
+
+[v1.0](https://github.com/Kurokatana94/PortfolioProject-03-TicTacToe/releases/download/v1.0.0/TicTacToe.exe)
